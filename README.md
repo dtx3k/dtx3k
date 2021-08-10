@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Was it o any help to you? Consider buying me a beer 🍺
+Was I to any help to you? Consider buying me a beer 🍺
 https://paypal.me/datux3000
 <!--
 **dtx3k/dtx3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
